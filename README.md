@@ -2,6 +2,7 @@
 
 * [Build Status](#build-status)
 * [Requirements](#requirements)
+* [Discord](#discord)
 * [Copyright](#copyright)
 
 ## Build Status
