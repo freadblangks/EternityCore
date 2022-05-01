@@ -1,4 +1,4 @@
-# ![logo](favicon.png) EternityCore 5.4.8
+# ![logo](faviconEC.png) EternityCore 5.4.8
 
 * [Build Status](#build-status)
 * [Requirements](#requirements)
