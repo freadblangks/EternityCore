@@ -25,6 +25,10 @@ EternityCore
 + [OpenSSL ≥ v1.1.1i](https://github.com/DreamCoreRev/EternityCore/tree/EternityCore/tools/server_software/OpenSSL/Win64OpenSSL-1_1_1i.exe)
 + [Server software dependency](https://github.com/DreamCoreRev/EternityCore/tree/EternityCore/tools/server_software)
 
+## Discord
+
++ [EternityCore (5.4.8)](https://discord.gg/NSGFzJCXJw)
+
 ## Copyright
 
 License: GPL 2.0
